@@ -18,7 +18,7 @@ This project provides a web-based dashboard that allows users to view and intera
    - **Price Range Distribution**: Visualizes the distribution of product prices in the selected month, with defined ranges (e.g., 0-100, 101-200, etc.), using Recharts.
 
 ### 4. **Pie Chart**
-   - **Category Distribution**: Displays the number of items in each unique category for the selected month, visualized as a pie chart using Recharts.
+   - **Category Distribution**: Displays the number of items for the selected month, visualized as a pie chart using Recharts.
 
 ## Setup Instructions
 
